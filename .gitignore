@@ -1,0 +1,22 @@
+src/resources/config.yaml
+sql.sh
+ExpQuantResearch.log
+README.md
+venv
+src/core/migrations
+.DS_Store
+**/__pycache__/
+*.pyc
+activate.sh
+cleardata.sh
+getData.sh
+*.csv
+*.log
+*.sql
+*.txt
+
+# result directories
+models/
+stockSelectionData/
+test/
+
