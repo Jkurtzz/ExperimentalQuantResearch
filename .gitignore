@@ -1,7 +1,6 @@
 src/resources/config.yaml
 sql.sh
 ExpQuantResearch.log
-README.md
 venv
 src/core/migrations
 .DS_Store
